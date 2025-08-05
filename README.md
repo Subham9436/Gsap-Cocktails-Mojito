@@ -1,6 +1,6 @@
-# 🚀 Project Title
+# 🚀 LUX PARADISE
 
-This project uses TypeScript, TailwindCSS, and Vite.
+A UI Implementaion for Mocktail Site using GSAP Animations 
 
 ---
 
@@ -47,3 +47,4 @@ docker run -p 5173:5173 my-app-name
 - TailwindCSS
 - GSAP
 - Docker
+- GSAP
