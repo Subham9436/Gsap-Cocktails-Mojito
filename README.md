@@ -7,6 +7,9 @@ A UI Implementaion for Mocktail Site using GSAP Animations
 ## 🧪 Local Development
 
 ```bash
+#Git Clone
+git clone https://github.com/Subham9436/Gsap-Cocktails-Mojito
+
 # Install dependencies
 npm install
 
