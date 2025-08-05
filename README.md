@@ -21,13 +21,13 @@ npm run dev
 ### 1️⃣ Build the Docker image
 
 ```bash
-docker build -t my-app-name .
+docker build -t uicocktail .
 ```
 
 ### 2️⃣ Run the container
 
 ```bash
-docker run -p 5173:5173 my-app-name
+docker run -p 5173:5173 uicocktail
 ```
 
 > Open your browser at: [http://localhost:5173](http://localhost:5173)
@@ -37,7 +37,7 @@ docker run -p 5173:5173 my-app-name
 ### Pushed to DockerHub As Well
 
 ```bash
-docker run -p 5173:5173 my-app-name
+docker run -p 5173:5173 uicocktail
 ```
 
 ## 🛠 Tech Stack
