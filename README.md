@@ -47,4 +47,4 @@ docker run -p 5173:5173 uicocktail
 - TailwindCSS
 - GSAP
 - Docker
-- GSAP
+
