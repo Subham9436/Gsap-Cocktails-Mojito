@@ -35,12 +35,7 @@ docker run -p 5173:5173 uicocktail
 
 > Open your browser at: [http://localhost:5173](http://localhost:5173)
 
-## OR
-Pushed To DockerHub As Well
-```bash
-docker run -p 5173:5173 uicocktail
-```
-Open your browser at: [http://localhost:5173](http://localhost:5173)
+
 
 
 ## 🛠 Tech Stack
